@@ -14,6 +14,7 @@ tags:
 2. 本机下载ruby+devkit(jekyll 是基于ruby的)<https://rubyinstaller.org/downloads/>并安装。
 
 3. ```
+   gem install bundler #管理 Gem 相依性的工具，例如jekyll
    gem install jekyll -V
    ```
 
@@ -50,3 +51,13 @@ netstat -aon | findstr "4000"
 * 打开任务管理器，关闭冲突的进程 
 
 发现自己创建的blog比较难看，最后还是使用了一个模板。由于模板使用了各种包，根据报错提示补充安装对应的包。
+
+## 运行机制
+
+<https://blog.csdn.net/HopefulLight/article/details/78366374>
+
+## 可以参考官方快速开始
+
+最后发现还是官网的步骤清楚
+
+<https://www.jekyll.com.cn/docs/>

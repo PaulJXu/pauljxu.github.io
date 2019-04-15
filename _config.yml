@@ -1,11 +1,11 @@
 # Site settings
 title: Jerpson Blog
 SEOTitle: 杰普的博客 | Jerpson Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg-test.jpg
 email: Jepson.xu@gmail.com
 description: "Jerpson make data valuable | 杰普，machine learning, 数据创造价值 | 这里是 @Jerpson杰普 的个人博客，与你一起发现更大的世界。"
 keyword: "杰普, Jerpson, 杰普的博客, Jerpson Blog, Machine learning, data, data analysis"
-#url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://jerpson.github.io"              # your host, for absolute URL
 #baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
