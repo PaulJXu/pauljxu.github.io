@@ -3,7 +3,7 @@ layout: post
 title: jekyll+github 搭建小型博客
 author: jepson
 tags: 
-    - blog
+    - other
 ---
 
 ## windows jekyll+github 搭建小型博客
@@ -61,3 +61,5 @@ netstat -aon | findstr "4000"
 最后发现还是官网的步骤清楚
 
 <https://www.jekyll.com.cn/docs/>
+
+个人纯粹小白，因此很多地方需要完善，比如portfolio页面内容布局问题，同时需更多关注页面内容。
