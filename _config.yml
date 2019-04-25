@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
+#weibo_username:     
 #zhihu_username:     huxpro
 github_username:    jerpson
 #twitter_username:   huxpro
@@ -96,7 +96,7 @@ service-worker: true
 
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true                   # 由于经常写公式，因此在原作者的false修改为true了
 
 
 
