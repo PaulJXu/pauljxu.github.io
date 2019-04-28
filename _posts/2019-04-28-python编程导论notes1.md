@@ -1,4 +1,15 @@
+---
+layout: post
+title: python编程导论notes1
+subtitle: program use python notes1
+author: jerpson
+tags:
+    - python
+---
+
 # python编程导论
+
+notes1-4是根据书籍《python编程导论》记录的笔记，该书是作者根据MIT公开课整理而成，视频课程地址：<https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/>
 
 ## 1. 启程
 
@@ -64,4 +75,6 @@ print(x,'is divisible by 11 and 12')
 ```
 
 ## jupyter notebook notes
+
+<https://nbviewer.jupyter.org/github/jerpson/python_basic_program/blob/master/program_using_python.ipynb>
 

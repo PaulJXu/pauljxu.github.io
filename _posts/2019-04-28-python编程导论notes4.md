@@ -1,3 +1,12 @@
+---
+layout: post
+title: python编程导论notes4
+subtitle: program use python notes4
+author: jerpson
+tags:
+    - python
+---
+
 ## 16 蒙特卡罗模拟
 
 蒙特卡罗模拟用于求事件的近似概率，它**多次执行同一模拟**，然后**将结果进行平均**。

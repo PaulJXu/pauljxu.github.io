@@ -1,3 +1,12 @@
+---
+layout: post
+title: python编程导论notes2
+subtitle: program use python notes2
+author: jerpson
+tags:
+    - python
+---
+
 ## 6.测试与调试
 
 测试指通过运行程序以确定它是否按照预期工作。调试则指修复已知的未按预期工作的程序。

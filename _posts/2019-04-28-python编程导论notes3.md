@@ -1,3 +1,12 @@
+---
+layout: post
+title: python编程导论notes3
+subtitle: program use python notes3
+author: jerpson
+tags:
+    - python
+---
+
 ## 9.算法复杂度简介
 
 有时候，性能也是正确性的一个重要方面，特别是对于需要实时运行的程序
