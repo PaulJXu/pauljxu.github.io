@@ -1,6 +1,6 @@
 ---
-title: Portfolio #页面标题
 layout: default #按照layout文件中的页面模板输出
+title: Portfolio #页面标题
 header-img: "assets/about-bg-walle.jpg" #封面图
 description: 输出是最好的学习 #描述
 ---

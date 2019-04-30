@@ -35,7 +35,7 @@ python有4个标量对象：int/float/bool/None
 
 ’=‘赋值  ’==‘比较运算
 
-![](assets/int float操作.png)
+![](../assets/int float操作.png)
 
 bool 类型上的基本操作符为 and 、 or 和 not
 
