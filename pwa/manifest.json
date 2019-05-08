@@ -1,7 +1,7 @@
 {
   "name": "Jerpson Blog",
   "short_name": "Jerpson Blog",
-  "description": "machine learning, data engine",
+  "description": "machine learning, data science in action",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

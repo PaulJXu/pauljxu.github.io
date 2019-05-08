@@ -1,6 +1,6 @@
 # Site settings
 title: Jerpson Blog
-SEOTitle: 杰普 | 博客 | Jerpson Blog
+SEOTitle: 杰普的博客 | Jerpson Blog
 header-img: img/home-bg-test.jpg
 email: Jepson.xu@gmail.com
 description: "Jerpson make data valuable | 杰普，machine learning, 数据创造价值 | 这里是 @Jerpson杰普 的个人博客，与你一起发现更大的世界。"
@@ -62,9 +62,20 @@ kramdown:
 #disqus_username: Jerpson
 
 # Netease settings
-netease_comment: true
+#netease_comment: true
 
 
+comments: true
+
+comments:
+  gitalk: true
+  gitalk_clientID: '15e7283866176900b1ce'
+  gitalk_Secret: 'bdc611d37fee4838e37e6445dc9dcbd4572f8aa4'
+  gitalk_repo: 'jerpson.github.io'
+  gitalk_owner: 'jerpson'
+  gitalk_admin: 'jerpson'
+  distractionFreeMode: false
+  
 
 # Analytics settings
 # Baidu Analytics 
