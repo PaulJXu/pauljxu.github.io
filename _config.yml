@@ -1,6 +1,6 @@
 # Site settings
 title: Jerpson Blog
-SEOTitle: 杰普的博客 | Jerpson Blog
+SEOTitle: 杰普 | 博客 | Jerpson Blog
 header-img: img/home-bg-test.jpg
 email: Jepson.xu@gmail.com
 description: "Jerpson make data valuable | 杰普，machine learning, 数据创造价值 | 这里是 @Jerpson杰普 的个人博客，与你一起发现更大的世界。"
@@ -14,10 +14,10 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     
-#zhihu_username:     huxpro
+#zhihu_username:     username
 github_username:    jerpson
-#twitter_username:   huxpro
-#facebook_username:  huxpro
+#twitter_username:   username
+#facebook_username:  username
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -62,13 +62,13 @@ kramdown:
 #disqus_username: Jerpson
 
 # Netease settings
-#netease_comment: false
+netease_comment: true
 
 
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+ba_track_id: baf75e05c222704d34f7ff5488ebe868
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
