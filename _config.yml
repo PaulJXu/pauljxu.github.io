@@ -65,16 +65,16 @@ kramdown:
 #netease_comment: true
 
 
-comments: true
-
 comments:
+  disqus: false
+  
   gitalk: true
   gitalk_clientID: '15e7283866176900b1ce'
   gitalk_Secret: 'bdc611d37fee4838e37e6445dc9dcbd4572f8aa4'
   gitalk_repo: 'jerpson.github.io'
   gitalk_owner: 'jerpson'
   gitalk_admin: 'jerpson'
-  distractionFreeMode: false
+  distractionFreeMode: true
   
 
 # Analytics settings
