@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: Jerpson
+disqus_username: Jerpson
 
 # Netease settings
 #netease_comment: true
@@ -67,6 +67,7 @@ kramdown:
 
 comments:
   disqus: false
+  
   
   gitalk: true
   gitalk_clientID: '15e7283866176900b1ce'
