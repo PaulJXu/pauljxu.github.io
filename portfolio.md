@@ -12,10 +12,6 @@ description: 输出是最好的学习 #描述
 
 # project one
 
-The first try on kaggle, so fast, which has passed nearly three years.
+The first try on kaggle, so fast, which has passed nearly eight years.
 
 <https://nbviewer.jupyter.org/github/jerpson/kaggle/blob/master/titanic/titanic.ipynb>
-
-# project two
-
-test test test ...
