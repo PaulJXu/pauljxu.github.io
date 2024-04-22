@@ -5,7 +5,7 @@ header-img: img/home-bg-test.jpg
 email: Jepson.xu@gmail.com
 description: "Make data valuable | machine learning, 数据创造价值 | 这里是Paul的个人博客，与你一起发现更大的世界。"
 keyword: "AI, Machine learning, Algorithm, data analytics"
-url: "https://jerpson.github.io"              # your host, for absolute URL
+url: "https://pauljxu.github.io"              # your host, for absolute URL
 #baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     
 #zhihu_username:     username
-github_username:    jerpson
+github_username:    pauljxu
 #twitter_username:   username
 #facebook_username:  username
 #linkedin_username:  firstname-lastname-idxxxx
@@ -72,9 +72,9 @@ comments:
   gitalk: true
   gitalk_clientID: '15e7283866176900b1ce'
   gitalk_Secret: 'bdc611d37fee4838e37e6445dc9dcbd4572f8aa4'
-  gitalk_repo: 'jerpson.github.io'
-  gitalk_owner: 'jerpson'
-  gitalk_admin: 'jerpson'
+  gitalk_repo: 'pauljxu.github.io'
+  gitalk_owner: 'pauljxu'
+  gitalk_admin: 'pauljxu'
   distractionFreeMode: true
   
 
